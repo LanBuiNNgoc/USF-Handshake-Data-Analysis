@@ -9,6 +9,7 @@ The USF Handshake Data Analysis and Tableau Visualization project aims to provid
 ## 2. Executive Summary
 This project analyzes the current landscape of Data Science job opportunities in the U.S. using data sourced from the Handshake platform, with a specific focus on identifying states with the **highest job openings, work authorization requirements, company sizes, and industries with the highest salaries**. The insights gained from this project are designed to assist students in strategically targeting regions with the most active Data Science recruitment efforts and understanding the factors influencing employment in this field.
 <br/>The dashboard presents a visualization of job openings across the U.S., segmented by **states, work authorization requirements, company sizes, and salary trends across industries. Based on these findings, the project has successfully secured interviews for five students in Data Science roles, demonstrating the efficacy of data-driven career strategies.
+<br/> <img width="867" alt="Image" src="https://github.com/user-attachments/assets/0f8745e6-06cb-4de2-a3b7-5267a358af8f" />
 ## 3. In-sight Deep Dive
 ### a. Geography Distribution of the Job:
 - **Florida, California, Texas**, and **Georgia** show the highest job openings, with **New York, Illinois**, and **Pennsylvania** as secondary options.
